@@ -2,6 +2,10 @@
     display: flex;
 }
 
+.project-link a {
+    margin-right: 7px;
+}
+
 .project-image {
     height: 333px;
     width: 222px;
