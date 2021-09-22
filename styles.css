@@ -2,8 +2,6 @@
     display: flex;
 }
 
-
-
 .project-image {
     height: 333px;
     width: 222px;
@@ -19,7 +17,6 @@
     padding-left: 80%;
     justify-content: space-evenly;
 }
-
 
 .welcome-box {
     display: flex;
@@ -124,8 +121,6 @@
     height: 40px;
     width: 100%;
     flex-direction: row;
-
-
 }
 
 .contact-header {
@@ -153,8 +148,6 @@
     justify-content: center;
     margin-left: 10px;
     justify-content: space-evenly;
-
-
 }
 
 .about-me-header {
