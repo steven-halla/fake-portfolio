@@ -1,0 +1,198 @@
+.wrapper {
+    display: flex;
+}
+
+
+
+.project-image {
+    height: 333px;
+    width: 222px;
+    background-color: blue;
+}
+
+.home-header {
+    display: flex;
+    height: 53px;
+    width: 20%;
+    background-color: lightblue;
+    border: 1px;
+    padding-left: 80%;
+    justify-content: space-evenly;
+}
+
+
+.welcome-box {
+    display: flex;
+    background-color: lightblue;
+    width: 100%;
+    height: 40px;
+    justify-items: center;
+    justify-content: center;
+    font-weight: bold;
+}
+
+.home-picture {
+    width: 100%;
+    height: 700px;
+}
+
+.homepage-image-resize {
+    display: flex;
+    height: 700px;
+    width: 100%;
+}
+
+.project-header {
+    display: flex;
+    flex-direction: row;
+    height: 100px;
+    width: 100%;
+    background-color: lightblue;
+    align-content: center;
+}
+
+.project-title {
+    display: flex;
+    height: 100px;
+    width: 67%;
+    background-color: lightblue;
+    margin-left: auto;
+    align-content: center;
+}
+
+.project-title p {
+    display: flex;
+    /*margin-left: 55px;*/
+    align-items: center;
+    margin-left: 65%;
+    font-weight: bold;
+}
+
+.project-link {
+    display: flex;
+    height: 100px;
+    width: 33%;
+    background-color: lightblue;
+    align-items: center;
+    justify-content: flex-end;
+    margin-right: 9px;
+}
+
+.project-main-content {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 500px;
+}
+
+.project-name {
+    display: flex;
+    width: 111px;
+    height: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 14px;
+
+}
+
+.project-description {
+    display: flex;
+    width: 450px;
+    height: 320px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.project-image-holder {
+    display: flex;
+    width: 450px;
+    height: 320px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.social-media-tags img{
+    display: inline;
+    height: 40px;
+    width: 33px;
+    padding-left: 174px;
+
+}
+
+.social-media-tags {
+    display: inline-block;
+    height: 40px;
+    width: 100%;
+    flex-direction: row;
+
+
+}
+
+.contact-header {
+    display: flex;
+    height: 55px;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.contact-text {
+    display: flex;
+    height: 55px;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+}
+
+.contact-footer {
+    display: flex;
+    height: 22px;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    margin-left: 10px;
+    justify-content: space-evenly;
+
+
+}
+
+.about-me-header {
+    display: flex;
+    height: 22px;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+}
+
+.about-me-top {
+    display: flex;
+    height: 22px;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+}
+
+.about-me-content {
+    display: flex;
+    height: 777px;
+    width: 100%;
+}
+
+.image-box {
+    display: flex;
+    height: 555px;
+    width: 35%;
+}
+
+.self-portrait {
+    max-width: 100%;
+    height: auto;
+}
+
+.about-me-text {
+    display: flex;
+    height: 555px;
+    width: 30%;
+    margin-right: 40px;
+}
